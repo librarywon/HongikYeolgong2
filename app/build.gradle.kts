@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hongikyeolgong2"
+    namespace = "com.librarywon.hongikyeolgong2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.hongikyeolgong2"
+        applicationId = "com.librarywon.hongikyeolgong2"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
