@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.HongikYeolgong2" parent="">
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Head">
+        <item name="android:fontFamily">@font/suite_semibold</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:lineSpacingExtra">22dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Title01">
+        <item name="android:fontFamily">@font/suite_bold</item>
+        <item name="android:textSize">24dp</item>
+        <item name="android:lineSpacingExtra">30dp</item> <!-- Assumed lineHeight as not provided -->
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Title02">
+        <item name="android:fontFamily">@font/pretendard_semibold</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:lineSpacingExtra">22dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Title03">
+        <item name="android:fontFamily">@font/pretendard_semibold</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:lineSpacingExtra">26dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Body01">
+        <item name="android:fontFamily">@font/suite_extrabold</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:lineSpacingExtra">32dp</item> <!-- lineHeight - textSize -->
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Body02">
+        <item name="android:fontFamily">@font/suite_semibold</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:lineSpacingExtra">20dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Body03">
+        <item name="android:fontFamily">@font/suite_medium</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:lineSpacingExtra">32dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Body04">
+        <item name="android:fontFamily">@font/suite_medium</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:lineSpacingExtra">15dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Body05">
+        <item name="android:fontFamily">@font/pretendard_regular</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:lineSpacingExtra">26dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.Body06">
+        <item name="android:fontFamily">@font/pretendard_regular</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:lineSpacingExtra">26dp</item>
+    </style>
+
+    <style name="TextAppearance.HongikYeolgong2.caption">
+        <item name="android:fontFamily">@font/pretendard_regular</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:lineSpacingExtra">14dp</item>
+    </style>
+
+</resources>
