@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Base.Theme.Hongikyeolgong2" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Base.Theme.HongikYeolgong2" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:includeFontPadding">false</item>
         <item name="android:windowTranslucentStatus">true</item>
