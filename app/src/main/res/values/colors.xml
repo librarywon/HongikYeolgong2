@@ -10,11 +10,11 @@
     <color name="gray600">#3A3E49</color>
     <color name="gray800">#23262D</color>
 
-    <color name="blue">#4164E2</color>
+    <color name="blue100">#4164E2</color>
     <color name="blue200">#4164E2</color>
     <color name="blue300">#213065</color>
     <color name="blue400">#121C42</color>
 
-    <color name="yellow">#F4FD3D</color>
+    <color name="yellow100">#F4FD3D</color>
     <color name="yellow300">#CECF37</color>
 </resources>
