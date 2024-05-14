@@ -54,7 +54,7 @@ dependencies {
     implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
 
     // ViewPager2
-    implementation("androidx.viewpager2:viewpager2:1.0.0")
+    implementation("androidx.viewpager2:viewpager2:1.1.0")
 
     // coroutine
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
