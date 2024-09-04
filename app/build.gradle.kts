@@ -60,7 +60,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
 
     // fragment-ktx
-    implementation("androidx.fragment:fragment-ktx:1.8.0")
+    implementation("androidx.fragment:fragment-ktx:1.8.3")
 
     // viewModel
     implementation("androidx.lifecycle:lifecycle-extensions:2.2.0")
