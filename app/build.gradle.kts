@@ -57,7 +57,7 @@ dependencies {
     implementation("androidx.viewpager2:viewpager2:1.1.0")
 
     // coroutine
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
 
     // fragment-ktx
     implementation("androidx.fragment:fragment-ktx:1.8.0")
